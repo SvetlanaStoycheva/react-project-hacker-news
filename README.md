@@ -2,7 +2,7 @@
 
 #### React project from John Smilga's React tutorial
 
-- working with Hacker news API to fetch stories that reference the input
+- working with Hacker news API (https://hn.algolia.com/api) to fetch stories that reference the input
 - search form
 - read more/remove specific news functionality
 - implementation of server side pagination
